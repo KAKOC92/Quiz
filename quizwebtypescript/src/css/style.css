@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: rgb(180, 184, 218);
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal; ;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.radio_buttons  {
+    text-align: center;
+    cursor: pointer;
+}
+
+.radio_buttons:hover  {
+    text-align: center;
+    cursor: pointer;       
+}
+
+.checkbox_buttons {
+    text-align: center;
+    cursor: pointer;
+}
+
+.Button {
+    text-align: center;
+    margin-top: 25px;
+    cursor: pointer;
+}
